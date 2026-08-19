@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sajid%20Hasan%20Shihab&fontSize=50&fontAlignY=35&desc=Industrial%20%26%20Production%20Engineering%20%7C%20Software%20Developer&descAlignY=55&descAlign=50&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sajid%20Hasan%20Shihab&fontSize=50&fontAlignY=35&desc=Industrial%20and%20Production%20Engineering%20%7C%20Software%20Developer&descAlignY=55&descAlign=50&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Industrial+%26+Production+Engineering;Full-Stack+Web+Development;Product+Design+%26+Innovation;Blue+Ocean+Strategist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Industrial+and+Production+Engineering;Full-Stack+Web+Development;Product+Design+and+Innovation;Blue+Ocean+Strategist)](https://git.io/typing-svg)
 
 <br>
 
