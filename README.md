@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sajid%20Hasan%20Shihab&fontSize=50&fontAlignY=35&desc=Industrial%20and%20Production%20Engineering%20%7C%20Software%20Developer&descAlignY=55&descAlign=50&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sajid%20Hasan%20Shihab&fontSize=50&fontAlignY=35&desc=Industrial%20and%20Production%20Engineering%20%7C%20Data%20Analytics&descAlignY=55&descAlign=50&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Industrial+and+Production+Engineering;Full-Stack+Web+Development;Product+Design+and+Innovation;Blue+Ocean+Strategist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Industrial+and+Production+Engineering;Data+Analytics+and+Visualization;Product+Design+and+Innovation;Blue+Ocean+Strategist)](https://git.io/typing-svg)
 
 <br>
 
@@ -27,10 +27,10 @@
 
 ## ✦ About Me
 
-I am a highly driven problem-solver bridging the gap between heavy industry and modern software solutions. With a strong foundation in **Industrial & Production Engineering**, I specialize in designing scalable systems, building robust full-stack applications, and developing innovative product strategies. My approach merges technical execution with a "Blue Ocean" entrepreneurial mindset.
+I am a highly driven problem-solver bridging the gap between heavy industry and data-driven solutions. With a strong foundation in **Industrial & Production Engineering**, I specialize in analyzing complex datasets, optimizing operational systems, and developing innovative product strategies. My approach merges analytical precision with a "Blue Ocean" entrepreneurial mindset.
 
-*   **Engineering & Design:** Proficient in 3D modeling and industrial design utilizing AutoCAD for complex subtractive mechanical parts.
-*   **Software Development:** Actively building responsive, full-stack web applications and logic-driven scripts.
+*   **Data Analytics:** Passionate about extracting actionable insights from data, utilizing Python for logic-driven scripts and automated processing.
+*   **Engineering & Design:** Proficient in 3D modeling and industrial design utilizing AutoCAD and SOlidWork for complex subtractive mechanical parts.
 *   **Product Innovation:** Dedicated to sustainable social entrepreneurship, tackling macro-infrastructure challenges through efficient resource management and green technology.
 
 ---
@@ -39,11 +39,11 @@ I am a highly driven problem-solver bridging the gap between heavy industry and 
 
 <div align="center">
 
-**Languages & Core** <br>
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,md)](https://skillicons.dev)
+**Languages & Logic** <br>
+[![My Skills](https://skillicons.dev/icons?i=python,js,md)](https://skillicons.dev)
 
-**Frontend Development** <br>
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap)](https://skillicons.dev)
+**Data & Databases** <br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
 
 **Design & Architecture** <br>
 [![My Skills](https://skillicons.dev/icons?i=autocad,figma,git,github)](https://skillicons.dev)
@@ -57,8 +57,8 @@ I am a highly driven problem-solver bridging the gap between heavy industry and 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
 | **Industrial Design** | Advanced | 3D modeling, dimensional tolerancing, subtractive manufacturing methodologies. |
-| **Frontend Architecture** | Intermediate | Component-based UI/UX design, React ecosystem, state management. |
-| **Algorithm Design** | Intermediate | Python-based logic structuring, automated data processing, game logic (Pygame). |
+| **Data Analytics** | Intermediate | Data processing, statistical visualization, and Python-based logic structuring. |
+| **System Optimization** | Intermediate | Database management, query structuring, and workflow automation. |
 | **Venture Strategy** | Advanced | Business case development, pitch architecture, sustainable market positioning. |
 
 ---
@@ -73,7 +73,7 @@ A comprehensive digital ecosystem designed to connect blood donors directly with
 
 | Attribute | Details |
 | :--- | :--- |
-| **Stack** | React, Vite, Python |
+| **Stack** | Python, Data Modeling, React |
 | **Architecture** | Client-server model with AI-driven notification workflows |
 | **Impact** | Optimizes emergency response times and stabilizes regional blood supply logistics |
 | **Status** | Active Development |
@@ -173,7 +173,7 @@ A ground-up rebuild of the classic game utilizing Python and Pygame, focusing on
 
 ```yaml
 Current_Status:
-  Learning: "Advanced React architectures & Full-stack integration"
-  Building: "Blood Hunter platform & Rust-X prototypes"
+  Learning: "Advanced Data Analytics, Visualization, and SQL"
+  Building: "RaktaSetu data architecture & Rust-X prototypes"
   Exploring: "International MSc pathways & sustainable heavy-industry tech"
-  Open_To: "Collaborative open-source projects and software engineering roles"
+  Open_To: "Collaborative data projects and analytics roles"
